@@ -1,0 +1,683 @@
+@media (min-width:320px) and (max-width:575px){
+    .title p{
+        width: auto;
+    }
+    .title h3{
+        margin-top: 25px;
+    }
+    header span{
+        display: block;
+        text-align: center;
+    }
+    header p{
+        text-align: center;
+    }
+    .navbar-toggler:focus{
+        box-shadow: 0 0 0 0rem;
+    }
+    nav button i{
+        margin-top: 22px;
+    }
+    nav #navbarSupportedContent{
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 9999;
+    }
+    nav ul li{
+        margin-right: 0;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+        background:#2d3e50 ;
+    }
+    .navbar-nav .nav-link{
+        color: #fff;
+    }
+    nav .bttn{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    #banner-part .banner .overlay {
+        padding: 49px 0 71px 0;
+    }
+    
+  
+    #banner-part .banner .text h1{
+        font-size: 23px;
+    }
+    #banner-part .banner .text h3{
+        font-size: 27px;
+    }
+    #banner-part .banner .text p{
+        width: 293px;
+    }
+    #banner-part .banner a{
+        padding: 10px;
+        margin-right: 4px;
+    }
+    #banner-bottom .one{
+        transform: translate(0);
+    }
+
+
+    #about-part .about::after{
+        display: none;
+    }
+    #about-part .about::before{
+        display: none;
+    }
+    #about-part .rev_slider::after{
+        display: none;
+    }
+    #about-part .rev_slider::before{
+        display: none;
+    }
+    #about-part .text p{
+        width: 258px;
+    }
+    #about-part .text .dolor{
+        margin-top: 0;
+    }
+    #about-part .text .ipsum {
+        margin-bottom: 30px;
+    }
+    #about-part .text a{
+        padding: 10px 10px;
+        margin-right: 9px;
+    }
+
+    #counter-part{
+        margin-top: 20px;
+    }
+
+    #counter-part .number p::after{
+        display: none;
+    }
+    #counter-part .number p::before{
+        display: none;
+    }
+
+
+    #event-part .event-img img{
+        width: 100%;
+    }
+
+    #event-part .mom .one{
+        flex-direction: column;
+    }
+    #event-part .mom .one .text{
+        margin-left: 0;
+    }
+    #event-part .mom .one .text h4{
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #event-part .mom .one .text span .clock{
+        margin-left: 0;
+    }
+
+
+
+    #testimonial-part .testi_slider::after{
+        display: none;
+    }
+    #testimonial-part .testi_slider::before{
+        display: none;
+    }
+
+    #testimonial-part .testimonial::after{
+        display: none;
+    }
+
+    #testimonial-part .testimonial::before{
+        display: none;
+    }
+
+    #testimonial-part .text-slider .text p{
+        width: 287px;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    #testimonial-part .accordion button{
+        font-size: 16px;
+    }
+
+
+    #blog-part .top{
+        transform: translateY(-10%);
+    }
+
+    #blog-part .text{
+        display: none;
+    }
+    #blog-part .top .img{
+        margin-bottom: 60px;
+    }
+    #blog-part .top .img .icon{
+        top: 0
+    }
+    #blog-part .top .bottom{
+        margin-top: 0;
+    }
+
+    footer{
+        padding: 0px;
+    }
+
+    footer .text .sit{
+        width: auto;
+    }
+    footer .text .minim{
+        width: auto;
+    }
+
+    footer .footer-title {
+        margin-bottom: 28px;
+        margin-top: 20px;
+    }
+    footer .list ul{
+        margin-right: 0;
+        padding-left: 10px;
+    }
+
+    footer .list ul li{
+        margin-bottom: 10px;
+    }
+
+    footer .contact ul{
+        padding-left: 10px;
+    }
+
+    footer .contact ul li p{
+        font-size: 14px;
+    }
+    
+
+
+
+
+
+
+
+
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+    .title p{
+        width: auto;
+    }
+    .title h3{
+        margin-top: 25px;
+    }
+    header span{
+        display: block;
+        text-align: center;
+    }
+    header p{
+        text-align: center;
+    }
+    .navbar-toggler:focus{
+        box-shadow: 0 0 0 0rem;
+    }
+    nav button i{
+        margin-top: 22px;
+    }
+    nav #navbarSupportedContent{
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 9999;
+    }
+    nav ul li{
+        margin-right: 0;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+        background:#2d3e50 ;
+    }
+    .navbar-nav .nav-link{
+        color: #fff;
+    }
+    nav .bttn{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    #banner-part .banner .overlay {
+        padding: 49px 0 71px 0;
+    }
+    
+  
+    #banner-part .banner .text h1{
+        font-size: 23px;
+    }
+    #banner-part .banner .text h3{
+        font-size: 27px;
+    }
+    #banner-part .banner .text p{
+        width: 293px;
+    }
+    #banner-part .banner a{
+        padding: 10px;
+        margin-right: 4px;
+    }
+    #banner-bottom .one{
+        transform: translate(0);
+    }
+    #banner-bottom .one p{
+        font-size: 14px;
+    }
+
+
+    #about-part .about::after{
+        display: none;
+    }
+    #about-part .about::before{
+        display: none;
+    }
+    #about-part .rev_slider::after{
+        display: none;
+    }
+    #about-part .rev_slider::before{
+        display: none;
+    }
+    #about-part .text p{
+        width: 496px;
+    }
+    #about-part .text .dolor{
+        margin-top: 0;
+    }
+    #about-part .text .ipsum {
+        margin-bottom: 30px;
+    }
+    #about-part .text a{
+        padding: 10px 10px;
+        margin-right: 9px;
+    }
+
+    #counter-part{
+        margin-top: 20px;
+    }
+    #counter-part .number{
+        margin-bottom: 20px;
+    }
+
+    #counter-part .number p::after{
+        display: none;
+    }
+    #counter-part .number p::before{
+        display: none;
+    }
+
+
+    #event-part .event-img img{
+        width: 100%;
+    }
+
+    #event-part .mom .one{
+        flex-direction: column;
+    }
+    #event-part .mom .one .text{
+        margin-left: 0;
+    }
+    #event-part .mom .one .text h4{
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #event-part .mom .one .text span .clock{
+        margin-left: 0;
+    }
+
+    #testimonial-part .slick-list{
+        padding-top: 0 !important;
+    }
+
+
+
+    #testimonial-part .testi_slider::after{
+        display: none;
+    }
+    #testimonial-part .testi_slider::before{
+        display: none;
+    }
+
+    #testimonial-part .testimonial::after{
+        display: none;
+    }
+
+    #testimonial-part .testimonial::before{
+        display: none;
+    }
+
+    #testimonial-part .text-slider .text p{
+        width: 287px;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+
+    #teacher-part .text::after{
+        display: none;
+    }
+
+    #teacher-part .text::before{
+        display: none;
+    }
+   
+
+
+    #blog-part .top{
+        transform: translateY(-6%);
+    }
+
+    
+    #blog-part .top .img{
+        margin-bottom: 60px;
+    }
+    #blog-part .top .img .icon{
+        top: 0
+    }
+    #blog-part .top .bottom{
+        margin-top: 0;
+    }
+
+    footer{
+        padding: 0px;
+    }
+
+    footer .text .sit{
+        width: auto;
+    }
+    footer .text .minim{
+        width: auto;
+    }
+
+    footer .footer-title {
+        margin-bottom: 28px;
+        margin-top: 20px;
+    }
+    footer .list ul{
+        margin-right: 30px;
+        padding-left: 10px;
+    }
+
+    footer .list ul li{
+        margin-bottom: 10px;
+    }
+
+    footer .contact ul{
+        padding-left: 10px;
+    }
+
+    footer .contact ul li p{
+        font-size: 20px;
+    }
+
+    
+
+
+
+
+
+
+/* ========================= */
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+   
+    .title h3{
+        margin-top: 25px;
+    }
+   
+    .navbar-toggler:focus{
+        box-shadow: 0 0 0 0rem;
+    }
+    nav button i{
+        margin-top: 22px;
+    }
+    nav #navbarSupportedContent{
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 9999;
+    }
+    nav ul li{
+        margin-right: 0;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+        background:#2d3e50 ;
+    }
+    .navbar-nav .nav-link{
+        color: #fff;
+    }
+    nav .bttn{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    #banner-part .banner .overlay {
+        padding: 49px 0 71px 0;
+    }
+    
+  
+    #banner-part .banner .text h1{
+        font-size: 23px;
+    }
+    #banner-part .banner .text h3{
+        font-size: 27px;
+    }
+    #banner-part .banner .text p{
+        width: 293px;
+    }
+    #banner-part .banner a{
+        padding: 10px;
+        margin-right: 4px;
+    }
+    #banner-bottom .one{
+        transform: translate(0);
+    }
+    #banner-bottom .one p{
+        font-size: 14px;
+    }
+
+
+    #about-part .slick-slide img {
+        display: block;
+        width: 100%;
+    }
+
+
+    
+    #about-part .text p{
+        width: 496px;
+    }
+    #about-part .text .dolor{
+        margin-top: 0;
+    }
+    #about-part .text .ipsum {
+        margin-bottom: 30px;
+    }
+    #about-part .text a{
+        padding: 10px 10px;
+        margin-right: 9px;
+    }
+
+    #counter-part{
+        margin-top: 20px;
+    }
+    #counter-part .number{
+        margin-bottom: 20px;
+    }
+    #counter-part .number p{
+        font-size: 20px;
+    }
+
+    #counter-part .number p::after{
+        left: 28%;
+    }
+    #counter-part .number p::before{
+        left: 65%;
+    }
+
+    #course-part .slick-dots{
+        position: absolute;
+        bottom: -40px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #course-part .slick-dots li{
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    #course-part .slick-dots .slick-active button{
+        height: 14px;
+        width: 14px;
+        background: #fbaa33;
+        border-radius: 50%;
+    }
+
+    #course-part .slick-dots li button{
+        font-size: 0;
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        border: 1px solid #fbaa33;
+        background: transparent;
+        transition: .4s;
+    }
+
+
+    #event-part .event-img img{
+        width: 100%;
+    }
+
+    #event-part .mom .one .text{
+        margin-left: 103px;
+    }
+    #event-part .mom .one .text h4{
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #event-part .mom .one .text span .clock{
+        margin-left: 0;
+    }
+
+    #testimonial-part .slick-list {
+        padding-top: 24px !important;
+        padding-bottom: 0 !important;
+    }
+    #testimonial-part .accordion button{
+        font-size: 25px;
+    }
+
+
+
+    #testimonial-part .testi_slider::after{
+        display: none;
+    }
+    #testimonial-part .testi_slider::before{
+        display: none;
+    }
+
+    #testimonial-part .testimonial::after{
+        display: none;
+    }
+
+    #testimonial-part .testimonial::before{
+        display: none;
+    }
+
+    #testimonial-part .text-slider .text p {
+        
+        margin-top: 0;
+    }
+
+    #testimonial-part .prev {
+        top: 22%;
+        left: 86px;
+    }
+
+    #testimonial-part .next {
+        top: 44%;
+        left: 86px;
+    }
+
+
+    #teacher-part .text::after{
+        display: none;
+    }
+
+    #teacher-part .text::before{
+        display: none;
+    }
+   
+
+
+    #blog-part .top{
+        transform: translateY(-6%);
+    }
+
+    
+    #blog-part .top .img{
+        margin-bottom: 60px;
+    }
+    
+    #blog-part .top .bottom{
+        margin-top: 0;
+    }
+
+    footer{
+        padding: 0px;
+    }
+
+    footer .text .sit{
+        width: auto;
+    }
+    footer .text .minim{
+        width: auto;
+    }
+
+    footer .footer-title {
+        margin-bottom: 28px;
+        margin-top: 20px;
+    }
+    footer .list ul{
+        margin-right: 100px;
+        padding-left: 10px;
+    }
+
+    footer .list ul li{
+        margin-bottom: 10px;
+    }
+
+    footer .contact ul{
+        padding-left: 10px;
+    }
+
+    footer .contact ul li p{
+        font-size: 20px;
+    }
+
+    
+
+
+
+
+
+
+/* ========================= */
+
+}
